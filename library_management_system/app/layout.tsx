@@ -1,3 +1,4 @@
+import './globals.css'
 import { NextAuthProvider } from "./providers";
 import './globals.css'
 
